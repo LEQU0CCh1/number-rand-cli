@@ -1,0 +1,31 @@
+{
+  "name": "number-rand-cli",
+  "version": "1.0.0",
+  "description": "random number cli for everybody",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LEQU0CCh1/number-rand-cli.git"
+  },
+  "keywords": [
+    "random",
+    "number",
+    "cli"
+  ],
+  "author": "Chi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LEQU0CCh1/number-rand-cli/issues"
+  },
+  "homepage": "https://github.com/LEQU0CCh1/number-rand-cli#readme",
+  "dependencies": {
+    "react-random-number-generator": "^1.0.0",
+    "web3-eve-cli": "^1.1.0",
+    "web3-react-task": "^1.0.0",
+    "ava": "1.0.0-beta.6",
+    "meow": "^5.0.0"
+  }
+}
